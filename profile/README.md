@@ -14,7 +14,7 @@
 
 ---
 
-## 01. 문제와 해결
+## 01. Problem & Solution
 
 | 문제 | HEAPY의 해결 방법 |
 |---|---|
@@ -25,7 +25,7 @@
 
 ---
 
-## 02. 기술 스택
+## 02. Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 03. 핵심 기능
+## 03. Key Features
 
 ### 오늘의 건강을 한눈에
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 04. 유저 플로우
+## 04. User Flow
 
 ```text
 회원가입 · 로그인
@@ -90,7 +90,7 @@
 
 ---
 
-## 05. 아키텍처
+## 05. Architecture
 
 ![HEAPY 시스템 아키텍처](./assets/architecture.png)
 
@@ -120,7 +120,7 @@
 
 ---
 
-## 07. 핵심 설계
+## 07. Key Highlights
 
 ### 업무 데이터와 AI 처리의 책임 분리
 
@@ -148,7 +148,7 @@ Spring Boot가 사용자별 권한과 최종 저장을 담당하고, FastAPI가 
 
 ---
 
-## 08. 저장소 안내
+## 08. Repositories
 
 ### 주요 서비스
 
@@ -170,7 +170,7 @@ Spring Boot가 사용자별 권한과 최종 저장을 담당하고, FastAPI가 
 
 ---
 
-## 09. 팀
+## 09. Team
 
 <table>
   <tr>
@@ -182,3 +182,4 @@ Spring Boot가 사용자별 권한과 최종 저장을 담당하고, FastAPI가 
 </table>
 
 <!-- 이름과 담당 역할은 팀 확인 후 추가한다. -->
+
